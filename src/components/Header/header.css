@@ -1,0 +1,11 @@
+.header .btn-connexion {
+  min-width: 120px;
+  background-color: #5843e4;
+  border-radius: 30px;
+  color: white;
+}
+
+.header .btn-connexion:hover {
+  border-color: #5843e4;
+  color: #5843e4;
+}

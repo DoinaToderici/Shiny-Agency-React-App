@@ -1,0 +1,18 @@
+.app-home p {
+  color: #8186a0;
+}
+
+.app-home .connected-msg {
+  color: #a2d570;
+  font-size: 1.8;
+}
+
+.app-home .unconnected-msg {
+  color: #4ba2d4;
+  font-size: 1.8;
+}
+
+.app-home p span {
+  color: #5843e4;
+  font-weight: 700;
+}

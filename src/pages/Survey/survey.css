@@ -1,0 +1,20 @@
+.survey-page button {
+  text-align: center;
+  background: #f9f9fc;
+  border-radius: 31px;
+  border: none;
+  height: 50px;
+  width: 200px;
+}
+
+.survey-page button:first-of-type {
+  margin-right: 1.5rem;
+}
+
+.survey-page button:hover {
+  border: 2px solid #5843e4;
+}
+
+.survey-page .btn {
+  text-decoration: underline;
+}
